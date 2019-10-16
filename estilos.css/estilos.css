@@ -10,7 +10,8 @@
     height:50px ;
    
 }
-#menu{
+.menu{
+    background-color: chocolate;
     width:400px ;
     padding-top: 10px;
     margin: 20px auto;
