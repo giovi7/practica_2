@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+#main header{
+    width: 100%;
+    background-color: aqua;
+    box-shadow:1px 1px rgb(36, 37, 37);
+    height:50px ;
+   
+}
+#menu{
+    width:400px ;
+    padding-top: 10px;
+    margin: 20px auto;
+}
+#menu ul a{
+    color: chartreuse;
+    text-emphasis: none;
+    font:bold 16px;
+}
